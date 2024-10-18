@@ -1,0 +1,36 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    background-color: black#333;
+    color: aliceblue;
+}
+
+a{
+    color:aliceblue;
+}
+
+subimt {
+     color: lightgrey;
+}
+
+a:hover, a:active{
+    color: #eee
+}
+
+home {
+    color:antiquewhite
+}
+
+a:hover, a:active{
+    color: #eee;
+}
+
+goolge {
+    color: antiquewhite;
+}
+
+a:hover, a:active{
+    color: #eee;
+}
